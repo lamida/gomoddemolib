@@ -1,5 +1,5 @@
 package greeter
 
 func Greet() string {
-	return "Hello from module v1.0.0"
+	return "Hello from module v2.0.0"
 }
